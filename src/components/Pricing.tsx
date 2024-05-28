@@ -41,7 +41,7 @@ const pricingList: PricingProps[] = [
   },
   {
     title: "Sistema Web",
-    popular: 1,
+    popular: 0,
     price: " consultar",
     description:
       "Criação de um sistema personalizado para o seu negócio.",
