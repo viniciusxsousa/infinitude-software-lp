@@ -22,7 +22,9 @@ export const Hero = () => {
         </p>
 
         <div className="space-y-4 md:space-y-0 md:space-x-4">
-          <Button className="w-full md:w-1/3">Vamos começar</Button>
+          <Button className="w-full md:w-1/3">
+            <a className="block w-full h-full flex items-center justify-center"  href="https://api.whatsapp.com/send?phone=+5511%2094390-7690&text=Ol%C3%A1%2C+gostaria+de+solicitar+um+or%C3%A7amento" target="_black">Vamos começar</a>
+          </Button>
         </div>
       </div>
 
