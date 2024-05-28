@@ -116,7 +116,11 @@ export const Pricing = () => {
             </CardHeader>
 
             <CardContent>
-              <Button className="w-full">{pricing.buttonText}</Button>
+              <Button className="w-full">
+                <a className="block w-full h-full flex items-center justify-center " href="https://api.whatsapp.com/send?phone=+5511%2094390-7690&text=Ol%C3%A1%2C+gostaria+de+solicitar+um+or%C3%A7amento" target="_black">
+                  {pricing.buttonText}
+                </a>
+              </Button>
             </CardContent>
 
             <hr className="w-4/5 m-auto mb-4" />
