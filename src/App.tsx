@@ -8,7 +8,7 @@ import { HowItWorks } from "./components/HowItWorks";
 import { Navbar } from "./components/Navbar";
 // import { Newsletter } from "./components/Newsletter";
 import { Pricing } from "./components/Pricing";
-import { ScrollToTop } from "./components/ScrollToTop";
+import { WhatsappButton } from "./components/WhatsappButton";
 /* import { Services } from "./components/Services"; */
 /* import { Sponsors } from "./components/Sponsors"; */
 import { Team } from "./components/Team";
@@ -32,7 +32,7 @@ function App() {
       {/* <Newsletter /> */}
       <FAQ />
       <Footer />
-      <ScrollToTop />
+      <WhatsappButton />
     </>
   );
 }
