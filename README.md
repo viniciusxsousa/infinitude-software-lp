@@ -14,3 +14,7 @@ Este projeto é uma landing page desenvolvida para uma startup. Com o objetivo d
 * [Tailwind](https://tailwindcss.com/)
 
 ### :desktop_computer: Previa do Projeto
+
+
+https://github.com/viniciusxsousa/infinitude-software-lp/assets/81489425/3171f35e-8836-4a33-8269-118497207fde
+
