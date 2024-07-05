@@ -80,7 +80,7 @@ export const Navbar = () => {
                   Infinitude Software
                   </SheetTitle>
                 </SheetHeader>
-                <nav className="flex flex-col justify-center items-center gap-2 mt-4">
+                <nav className="flex fz flex-col justify-center items-center gap-2 mt-4">
                   {routeList.map(({ href, label }: RouteProps) => (
                     <a
                       key={label}
@@ -112,7 +112,7 @@ export const Navbar = () => {
               <a
                 href={route.href}
                 key={i}
-                className={`text-[17px] ${buttonVariants({
+                className={`text-[15px] ${buttonVariants({
                   variant: "ghost",
                 })}`}
               >
