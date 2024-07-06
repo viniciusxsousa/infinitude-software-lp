@@ -30,7 +30,7 @@ const pricingList: PricingProps[] = [
     popular: 0,
     price: ' consultar',
     description:
-      "Desenvolvimento de uma landing page personalizada.",
+      "Desenvolvimento de landing pages personalizadas.",
     buttonText: "Solicitar orçamento",
     benefitList: [
       "Criação de landing pages",
@@ -58,7 +58,7 @@ const pricingList: PricingProps[] = [
     popular: 0,
     price: ' consultar',
     description:
-      "Crie um aplicativo para você ou para seu negócio",
+      "Crie um aplicativo para você ou para seu negócio.",
     buttonText: "Solicitar orçamento",
     benefitList: [
       "Aplicativo próprio",
