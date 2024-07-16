@@ -26,7 +26,7 @@ const features: FeatureProps[] = [
   {
     title: "Sistemas Web",
     description:
-      "O desenvolvimento de sistemas personalizados é a espinha dorsal de muitas empresas modernas. Nossa equipe de desenvolvimento de software trabalha em estreita colaboração com você para entender suas necessidades específicas e criar soluções sob medida para o seu negócio",
+      "O desenvolvimento de sistemas personalizados é a espinha dorsal de muitas empresas modernas. Nossa equipe de desenvolvimento de software trabalha em estreita colaboração com você para entender suas necessidades específicas e criar soluções sob medida para o seu negócio.",
     image: system,
   },
   {

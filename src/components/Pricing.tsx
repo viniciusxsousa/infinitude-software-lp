@@ -30,11 +30,11 @@ const pricingList: PricingProps[] = [
     popular: 0,
     price: ' consultar',
     description:
-      "Criação de uma landing pages simples",
+      "Desenvolvimento de landing pages personalizadas.",
     buttonText: "Solicitar orçamento",
     benefitList: [
-      "Criação de uma landing page",
-      "Criação do layout",
+      "Criação de landing pages",
+      "Definição do layout",
       "Página adaptável para diferente tamanhos de tela",
       "Melhore a converção do seus clientes",
     ],
@@ -48,7 +48,7 @@ const pricingList: PricingProps[] = [
     buttonText: "Solicitar orçamento",
     benefitList: [
       "Tenha um sistema personalizado",
-      "layout proprio",
+      "layout próprio",
       "Suas regras de negócio em um sistema",
       "Suporte do nosso time especializado",
     ],
@@ -58,7 +58,7 @@ const pricingList: PricingProps[] = [
     popular: 0,
     price: ' consultar',
     description:
-      "Crie um aplicativo para você ou para seu negócio",
+      "Crie um aplicativo para você ou para seu negócio.",
     buttonText: "Solicitar orçamento",
     benefitList: [
       "Aplicativo próprio",
@@ -108,7 +108,7 @@ export const Pricing = () => {
                 ) : null}
               </CardTitle>
               <div>
-                <span className="text-3xl font-bold">${pricing.price}</span>
+                {/* <span className="text-3xl font-bold">${pricing.price}</span> */}
                 {/* <span className="text-muted-foreground"> /month</span> */}
               </div>
 

@@ -12,7 +12,7 @@ export const Hero = () => {
               Infinitude
           </h1>{" "}
           <h2 className="inline">
-            <span className="inline bg-gradient-to-r from-[#002404] via-[#097909] to-[#00ff48] text-transparent bg-clip-text">
+            <span className="inline bg-clip-text">
               Software
             </span>{" "}
           </h2>
